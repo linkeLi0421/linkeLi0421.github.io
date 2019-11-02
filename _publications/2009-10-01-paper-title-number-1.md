@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Building Adversarial Defense with Non-invertible Data Transformations"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper is to use non-invertible data transformation to defend adversarial machine learning. Empirical results indicate that our framework provides better robustness compared to state-of-art solutions while having negligible degradation in generalization accuracy.'
+date: 2019-08-23
+venue: 'PRICAI'
+paperurl: 'http://chenligeng.github.io/files/PRICAI2019.pdf'
+citation: 'Guo W, Mu D, Chen L, et al. Building Adversarial Defense with Non-invertible Data Transformations[C]//Pacific Rim International Conference on Artificial Intelligence. Springer, Cham, 2019: 593-606.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+<!-- This paper is to use non-invertible data transformation to defend adversarial machine learning. Empirical results indicate that our framework provides better robustness compared to state-of-art solutions while having negligible degradation in generalization accuracy.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://chenligeng.github.io/files/PRICAI2019.pdf)
+
+Recommended citation: Guo W, Mu D, **Chen L**, et al. Building Adversarial Defense with Non-invertible Data Transformations[C]//Pacific Rim International Conference on Artificial Intelligence. Springer, Cham, 2019: 593-606. -->
