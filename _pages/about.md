@@ -8,19 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a Ph.D candidate in [Nanjing University](https://www.nju.edu.cn/), [National Key Laboratory for Novel Software Technology](https://cs.nju.edu.cn/), supervised by Professor Bing Mao.
+Currently, I am a graduate student in [Nanjing University](https://www.nju.edu.cn/), [National Key Laboratory for Novel Software Technology](https://cs.nju.edu.cn/), supervised by Professor Bing Mao.
 
-I received my B.Sc. degree in [computer science from Department of Computer Science and Technology](http://www.cs.cqu.edu.cn/), [Chongqing University](https://www.cqu.edu.cn/), China, in 2017. In the same year, I was admitted to pursue for a Ph.D degree in Nanjing University.
+I received my B.Sc. degree in [School of Computer Science and Technology]([西安交通大学计算机科学与技术学院 (xjtu.edu.cn)](http://www.cs.xjtu.edu.cn/)), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), China, in 2021.
 
 
 
 Research Interest
 =====================================
-My current research interests mainly include *Software Security* and *Data Mining*.
+My current research interests mainly include *Software Security* and *Program Analysis*.
 
 
 Contact Me
 ============================
-I will share my daily life and experiences in my [Weibo Account](https://weibo.com/u/2814267852/): *Ligeng-Chen*, and I will share some academic thinkings in my [CSDN account](https://blog.csdn.net/weixin_41764426).
-
-You can also contact my with following email address: chenlg AT smail.nju.edu.cn
+Contact my with following email address: chenlg AT smail.nju.edu.cn

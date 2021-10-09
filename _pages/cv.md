@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chongqing, Chongqing University, CS, 2013-2017
-* Ph.D in Nanjing, Nanjing University, CS, 2017-now
+* B.S. in Shaanxi, Xi'an Jiaotong University, CS, 2017-2021
+* M.Sc. Student in Nanjing, Nanjing University, CS, 2021-now
 
 Work experience
 ======
@@ -29,49 +29,24 @@ none yet
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
   
-Skills
-======
-* programming
-* data analysis
-* marketing
+
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Award & Experience
-======
-
-Award
---------
-* **National Scholarship**(undergraduate student), 2014
-* Excellent League Member, Nanjing University, 2017
-* Outstanding Postgraduate Student Cadre(Pacemaker), Nanjing University, 2017
-* Huawei's 4th Sales Elite Challenge Global TOP 50
-* Zhongan first offline hackathon programming competition AI Track, **First Prize**
-* Zhongan 2nd offline hackathon programming competition AI Track, Second Prize
-* Master's Scholarship, Second Prize
-
-Experience
------------
-* Chairman of the Graduate School of Computer Science, Nanjing University, 2017-2018
-* Vice President of Artificial Intelligence Association, Nanjing University, 2018-2019
-* Participate in the recording of Jiangsu Satellite TV's **Super Brain** second season, TOP 12
+none yet
 
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+none yet
+
+
 <!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->

@@ -7,16 +7,16 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Chen Ligeng/Personal Page"
+title                    : "Linke Li/Personal Page"
 title_separator          : "-"
-name                     : &name "Chen Ligeng"
-description              : &description "NJU Ph.D Candidate"
+name                     : &name "Linke Li"
+description              : &description "NJU Graduate student"
 url                      : 
   # "http://127.0.0.1:4000"
-  https://chenligeng.github.io 
+  https://linkeLi0421.github.io 
   # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chenligeng/chenligeng.github.io"
+repository               : "linkeLi0421/linkeLi0421.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,9 +83,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chen Ligeng"
+  name             : "Linke LI"
   avatar           : "person.jpg"
-  bio              : "Ph.D Candidate in Nanjing University"
+  bio              : "Graduate stuent in Nanjing University"
   location         : "Nanjing University Xianlin Campus"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chenligeng"
+  github           : "linkeLi0421"
   google_plus      :
   keybase          :
   instagram        :
@@ -118,7 +118,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  #CSDN             : "https://blog.csdn.net/weixin_41764426"
+  #CSDN             : #"https://blog.csdn.net/weixin_41764426"
 
 
 # Reading Files
