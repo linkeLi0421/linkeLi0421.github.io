@@ -16,8 +16,7 @@ Education
 
 Work experience
 ======
-none yet
-(ps: if somebody is interested in me, plz offer me a job of intern)
+Summer 2019: Cloud Computing Engineer in Huawei Technologies, Xi'an
 
 <!-- * Summer 2015: Research Assistant
   * Github University
@@ -34,7 +33,12 @@ none yet
 
 Publications
 ======
-none yet
+### Silent Bugs Matter: A Study of Compiler-Introduced Security Bugs
+
+Jianhao Xu, Kangjie Lu, Zhengjie Du, Zhu Ding, **Linke Li**, Qiushi Wu, Mathias Payer, and Bing Mao.
+To appear in *Proceedings of the 32nd USENIX Security Symposium (**Security'23**)*. Anaheim, CA, August 2023.
+
+
 
 <!-- Talks
 ======
