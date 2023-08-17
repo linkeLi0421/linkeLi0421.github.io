@@ -20,7 +20,9 @@ Research Interest
 
 ​	We propose a novel detection technique based on LLVM's debug information system, which can efficiently identify security vulnerabilities introduced by compilers in the target program before and after compiler optimization. 
 
-![image-20230817215146094]((http://linkeLi0421.github.io/images/cbchecker.png)
+<div align="left" display="flex">    
+    <img src="./images/cbchecker.png" height = "125" alt="cbchecker" align="center" />
+</div>
 
 outcome：One patch is reported to linux kernel and [get confirmed](https://lore.kernel.org/lkml/20230719232248.GC3240@monkey/).
 
