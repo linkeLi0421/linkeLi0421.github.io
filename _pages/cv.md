@@ -9,7 +9,7 @@ redirect_from:
 
 # Research Insterests
 
-​	My research interest lies in open source software security, building upon my prior experience in compiler security. I aspire to explore innovative strategies for enhancing the security of open source projects, contributing to the robustness of software ecosystems.
+​	Having focused on compiler security, I now aspire to broaden my expertise by researching diverse aspects of software security. My goal is to contribute innovative solutions that safeguard software systems comprehensively.
 
 Education
 ======
@@ -55,4 +55,4 @@ Third Prize Scholarship of Xi'an Jiaotong University, 2018, 2019, 2020
 
 
 
-See pdf version [here](http://linkeLi0421.github.io/files/linke_resume20230816.pdf).
+See pdf version [here](http://linkeLi0421.github.io/files/linke_resume20230818.pdf).

@@ -12,7 +12,7 @@ Currently, I am a graduate student in [Nanjing University](https://www.nju.edu.c
 
 Research Interest
 =====================================
-​	My research interest lies in open source software security, building upon my prior experience in compiler security. I aspire to explore innovative strategies for enhancing the security of open source projects, contributing to the robustness of software ecosystems.
+​	Having focused on compiler security, I now aspire to broaden my expertise by researching diverse aspects of software security. My goal is to contribute innovative solutions that safeguard software systems comprehensively.
 
 # Projects
 
