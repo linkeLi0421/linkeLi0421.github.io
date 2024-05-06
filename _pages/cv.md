@@ -9,7 +9,7 @@ redirect_from:
 
 # Research Insterests
 
-​	Having focused on compiler security, I now aspire to broaden my expertise by researching diverse aspects of software security. My goal is to contribute innovative solutions that safeguard software systems comprehensively.
+​	Having focused on compiler security, I now aspire to broaden my expertise by researching diverse aspects of software engineering. I am interested in using software tools to make it easier to develop correct and efficient software.
 
 Education
 ======
@@ -32,11 +32,6 @@ Submitted to Journal of Software(In Chinese)
 Jianhao Xu, Kangjie Lu, Zhengjie Du, Zhu Ding, **Linke Li**, Qiushi Wu, Mathias Payer, and Bing Mao.
 
 In Proceedings of the 32nd USENIX Security Symposium (**Security'23**). Anaheim, CA, August 2023.
-
-Work experience
-======
-
-Summer 2019: Cloud Computing Engineer in Huawei Technologies, Xi'an
 
 # Achievements
 
