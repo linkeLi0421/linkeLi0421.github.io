@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a M.S. student in [Nanjing University](https://www.nju.edu.cn/), supervised by Professor [Bing Mao](http://seclab.nju.edu.cn/). I received my B.Sc. degree in [School of Computer Science and Technology]([西安交通大学计算机科学与技术学院 (xjtu.edu.cn)](http://www.cs.xjtu.edu.cn/)), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), China, in 2021. You can see my cv [here](http://linkeLi0421.github.io/files/linke_resume20230818.pdf).
+Currently, I am a M.S. student in [Nanjing University](https://www.nju.edu.cn/), supervised by Professor [Bing Mao](http://seclab.nju.edu.cn/). I received my B.Sc. degree in [School of Computer Science and Technology]([西安交通大学计算机科学与技术学院 (xjtu.edu.cn)](http://www.cs.xjtu.edu.cn/)), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), China, in 2021. You can see my cv [here](http://linkeLi0421.github.io/files/linke_resume20240506.pdf).
 
 Research Interest
 =====================================
-​	Having focused on compiler security, I now aspire to broaden my expertise by researching diverse aspects of software security. My goal is to contribute innovative solutions that safeguard software systems comprehensively.
+​	Having focused on compiler security, I now aspire to broaden my expertise by researching diverse aspects of software engineering. I am interested in using software tools to make it easier to develop correct and efficient software.
 
 # Projects
 
