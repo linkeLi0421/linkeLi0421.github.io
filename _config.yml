@@ -85,12 +85,12 @@ analytics:
 author:
   name             : "Linke LI"
   avatar           : "person.jpg"
-  bio              : "Graduate student in Nanjing University"
-  location         : "Nanjing University Xianlin Campus"
+  bio              : "PhD student in University of Utah"
+  location         : "Salt Lake City, Utah"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :  linkeli@smail.nju.edu.cn
+  email            :  LinkeLi@utah.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

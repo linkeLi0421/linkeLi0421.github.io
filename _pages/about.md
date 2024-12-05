@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a M.S. student in [Nanjing University](https://www.nju.edu.cn/), supervised by Professor [Bing Mao](http://seclab.nju.edu.cn/). I received my B.Sc. degree in [School of Computer Science and Technology]([西安交通大学计算机科学与技术学院 (xjtu.edu.cn)](http://www.cs.xjtu.edu.cn/)), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), China, in 2021. You can see my cv [here](http://linkeLi0421.github.io/files/linke_resume20240506.pdf).
+Currently, I am a PhD student in University of Utah, advised by [Prof. Jun Xu](https://sites.google.com/view/junxzm). I received my M.Eng degree in [Nanjing University](https://www.nju.edu.cn/), supervised by Professor [Bing Mao](http://seclab.nju.edu.cn/). I received my B.Sc. degree in [School of Computer Science and Technology]([西安交通大学计算机科学与技术学院 (xjtu.edu.cn)](http://www.cs.xjtu.edu.cn/)), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), China, in 2021. You can see my cv [here](http://linkeLi0421.github.io/files/linke_resume20241205.pdf).
 
 Research Interest
 =====================================
